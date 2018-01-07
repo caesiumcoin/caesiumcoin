@@ -1,0 +1,2 @@
+const char CRYPTONOTE_NAME[] = "caesiumcoin";
+set_property(TARGET daemon PROPERTY OUTPUT_NAME "caesiumcoin")
